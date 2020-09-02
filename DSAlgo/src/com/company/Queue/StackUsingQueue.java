@@ -14,6 +14,7 @@ public class StackUsingQueue {
         }
 
     }
+    
     public int pop(){
         return queue.remove();
     }
